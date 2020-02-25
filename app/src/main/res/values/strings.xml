@@ -1,0 +1,44 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">MVICALL</string>
+    <string name="tnc" tools:ignore="MissingTranslation">Saya setuju dengan Syarat &amp; Ketentuan yang berlaku</string>
+    <string name="permis1" tools:ignore="MissingTranslation">Kita masih membutuhkan beberapa akses agar semua bisa berjalan…</string>
+    <string name="dialertext" tools:ignore="MissingTranslation">Agar Video Ringtone bisa muncul di hapemu</string>
+    <string name="akses" tools:ignore="MissingTranslation">Akses Kontak &amp; Telepon</string>
+    <string name="descAkses" tools:ignore="MissingTranslation">Untuk mengetahui temanmu yang sudah pakai MViCall</string>
+
+    //REGISTER
+    <string name="text_otp" translatable="false">6 digit kode OTP sudah dikirim ke nomor</string>
+    <string name="text_phoneno" translatable="false">+628782842417</string>
+    <string name="text_wrong_number" translatable="false">Salah Nomor?</string>
+    <string name="text_input_otp" translatable="false">Masukkan kode OTP disini:</string>
+    <string name="text_cannot_otp" translatable="false">Kirim ulang(60s)</string>
+    <string name="text_warning" tools:ignore="MissingTranslation">Pastikan kamu memasukkan nomor utamamu (simcard 1) ya!</string>
+
+    <string name="text_verification" tools:ignore="MissingTranslation">Verifikasi</string>
+    <string name="text_verification2" tools:ignore="MissingTranslation">Masukkan OTP</string>
+
+    //Profile
+    <string name="text_choose_image" translatable="false">Pilih Sumber Gambar</string>
+    <string name="text_choose_selfie" translatable="false">Ambil Selfie</string>
+    <string name="text_choose_gallery" translatable="false">Pilih dari Gallery</string>
+
+    //Menu
+    <string name="text_home" translatable="false">Home</string>
+    <string name="text_market" translatable="false">Marketplace</string>
+    <string name="text_teman" translatable="false">Teman</string>
+    <string name="text_reward" translatable="false">Reward</string>
+
+    //Home
+    <string name="title_live_explore" tools:ignore="MissingTranslation">Live Explore</string>
+    <string name="text_swipe" tools:ignore="MissingTranslation">swipe up to see more</string>
+    <string name="alert_no_data" tools:ignore="MissingTranslation">Yahh, sayang banget tidak ada video yang tersedia…</string>
+    <string name="title_home" tools:ignore="MissingTranslation">MViCall</string>
+    <string name="title_marketplace" tools:ignore="MissingTranslation">Marketplace</string>
+    <string name="title_videotone" tools:ignore="MissingTranslation">Videotone</string>
+    <string name="title_friend" tools:ignore="MissingTranslation">Teman</string>
+    <string name="title_my_account" tools:ignore="MissingTranslation">My Profile</string>
+    <string name="title_message" tools:ignore="MissingTranslation">Messages</string>
+    <string name="title_menu_bottom" tools:ignore="MissingTranslation">Live Explore</string>
+    <string name="title_Submenu_bottom" tools:ignore="MissingTranslation">Swipe keatas untuk lihat</string>
+
+</resources>

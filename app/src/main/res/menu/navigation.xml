@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_home"
+        android:title="@string/text_home" />
+
+    <item
+        android:id="@+id/navigation_marketplace"
+        android:title="@string/text_market"/>
+
+    <item
+        android:id="@+id/navigation_teman"
+        android:title="@string/text_teman" />
+
+    <item
+        android:id="@+id/navigation_reward"
+        android:title="@string/text_reward" />
+
+    <!--        android:icon="@drawable/ic_home"-->
+
+</menu>
