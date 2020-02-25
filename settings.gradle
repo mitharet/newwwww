@@ -1,0 +1,2 @@
+include ':app',':countrycodepicker', ':pinview'
+rootProject.name='MVICALL2222'
